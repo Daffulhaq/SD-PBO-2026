@@ -37,9 +37,10 @@ class GasCar extends RacingCar
 ## 4. Polymorphism
 Polymorphism adalah kemampuan suatu method atau objek untuk memiliki banyak bentuk sehingga dapat berperilaku berbeda pada class yang berbeda.
 
-Satu perintah displayinfo() akan mengeluarkan hasil yang berbeda tergantung "RacingCar" mana yang dipanggil.
+RacingCar yang berbeda akan mengeluarkan sound "RacingCar".
 ```java
-carElectric.displayInfo();
-carGas.displayInfo();
+RacingCar carElectric = new ElectricCar("Formula E", "Electric", "Street Circuits", 320);
+RacingCar carGas = new GasCar("Formula 1", "Gasoline", "Permanent Circuits", 350);
 ```
+
 
