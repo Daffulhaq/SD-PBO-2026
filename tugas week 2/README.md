@@ -1,6 +1,10 @@
-## Getting Started
+## 4 Pilar Pemrograman Berorientasi Objek
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nama : Daffa Ulhaq Fadhlurrahman  
+NRP : 5027251033  
+Kelas : B  
+
+Pada Pemrograman Berorientasi Objek, terdapat 4 pilar :
 
 ## Folder Structure
 
@@ -16,3 +20,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
