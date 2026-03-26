@@ -1,18 +1,15 @@
-## Getting Started
+# Check In Pesawat di Bandara Sultan Iskandar Muda
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Deskripsi Kasus 
+Program ini merupakan simulasi sistem check-in penumpang pesawat di Bandara Sultan Iskandar Muda. Dalam sistem ini, kita sebagai petugas check-in dapat:
+- Memilih maskapai
+- Memilih nomor penerbangan
+- Menginput data penumpang
+- Memilih kursi penumpang
+- Menghasilkan boarding pass
+Setiap nomor penerbangan yang ada mengikuti jadwal penerbangan rutin di bandara tersebut, begitu juga dengan tujuan dan waktu keberangkatannya.
 
-## Folder Structure
+## Class Diagram
+<img width="5905" height="5030" alt="Flight Management Check-In-2026-03-26-053044" src="https://github.com/user-attachments/assets/bc736799-59d5-43f5-8894-e8c7f4cc0e87" />
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Kode Java
