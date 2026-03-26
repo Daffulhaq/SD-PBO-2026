@@ -6,7 +6,7 @@ Program ini merupakan simulasi sistem check-in penumpang pesawat di Bandara Sult
 - Memilih nomor penerbangan
 - Menginput data penumpang
 - Memilih kursi penumpang
-- Menghasilkan boarding pass
+- Menghasilkan boarding pass  
 Setiap nomor penerbangan yang ada mengikuti jadwal penerbangan rutin di bandara tersebut, begitu juga dengan tujuan dan waktu keberangkatannya.
 
 ## Class Diagram
